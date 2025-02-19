@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.17)  17 FEB 2025 19:21
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.1.17)  19 FEB 2025 17:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1046,13 +1046,6 @@ File: sjtu.png Graphic file (type bmp)
  [1
 
 ]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.53937> on input line 63.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 63.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 63.
-
 
 Package fontspec Warning: Font "STFangsong" does not contain requested Script
 (fontspec)                "CJK".
@@ -1084,21 +1077,12 @@ Package fontspec Info: Font family 'STFangsong(0)' created for font
 (fontspec)             <->"STFangsong/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-
-Overfull \hbox (5.74655pt too wide) in paragraph at lines 72--73
-\TU/lmr/m/n/10.53937 Contactez-moi aussi si vous avez des retours et des sugges
-tions. Mon email est []$[][][][][][][][] []
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.69003pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.69003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.69003pt}.
-
-[2]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.53937> on input line 76.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 76.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 76.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.69003pt, for example:
@@ -1107,7 +1091,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.69003pt}.
 
-[3] (./sommaire_2307P.toc)
+[2] (./sommaire_2307P.toc)
 \tf@toc=\write5
 \openout5 = `sommaire_2307P.toc'.
 
@@ -1120,7 +1104,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.69003pt}.
 
-[4]
+[3]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.69003pt, for example:
@@ -1129,21 +1113,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.69003pt}.
 
-[5] (./sommaire_2307P.aux)
+[4] (./sommaire_2307P.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/07/14>
  ***********
-Package rerunfilecheck Info: File `sommaire_2307P.out' has not changed.
-(rerunfilecheck)             Checksum: 0A73548C5F2076555CBE5196836BB783;651.
+
+
+Package rerunfilecheck Warning: File `sommaire_2307P.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `sommaire_2307P.out':
+(rerunfilecheck)             Before: F1704AC8941A2C714B8F64555AA1D561;461
+(rerunfilecheck)             After:  65DDC2D0FE8E7C8419D966322E9DC949;365.
  ) 
 Here is how much of TeX's memory you used:
- 29152 strings out of 474773
- 614978 string characters out of 5757724
- 1927839 words of memory out of 5000000
- 50806 multiletter control sequences out of 15000+600000
- 587584 words of font info for 100 fonts, out of 8000000 for 9000
+ 29148 strings out of 474773
+ 614873 string characters out of 5757724
+ 1928839 words of memory out of 5000000
+ 50804 multiletter control sequences out of 15000+600000
+ 587576 words of font info for 99 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,11n,97p,1011b,395s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on sommaire_2307P.pdf (5 pages).
+Output written on sommaire_2307P.pdf (4 pages).
